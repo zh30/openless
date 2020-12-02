@@ -1,0 +1,14 @@
+{
+	"name": "openless",
+	"version": "0.0.1",
+	"main": "main.js",
+	"repository": "git@github.com:zhanghecool/openless.git",
+	"author": "He <zhanghecool@outlook.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^11.0.3"
+	},
+	"scripts": {
+		"dev": "electron ."
+	}
+}
